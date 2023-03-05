@@ -123,4 +123,4 @@ Hex color value #ffffff and ffffff are both valid.
 Thank you for reading! 
 I'm Jennifer Scherschligt, I'm a full stack developer student at the University of Oregon. 
 
-My first GIST: [pherpat](https://gist.github.com/pherpat/17c7e791a1b971614eb692f8cb804b70)
+My first GIST: [Regular-Expression-Tutorial](https://gist.github.com/pherpat/17c7e791a1b971614eb692f8cb804b70)
